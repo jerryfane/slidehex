@@ -1,0 +1,87 @@
+{
+  "format": "slidehex",
+  "version": 1,
+  "title": "SlideHex — First ideas",
+  "width": 1280,
+  "height": 720,
+  "slides": [
+    {
+      "id": "76e8df5e-63c5-4d55-8e66-1cd2fc3d2192",
+      "background": "#ffffff",
+      "elements": [
+        {
+          "id": "fc7f33c0-cebc-4839-b005-3187fd0f9d4b",
+          "kind": "text",
+          "x": 120,
+          "y": 100,
+          "width": 720,
+          "height": 240,
+          "rotation": 0,
+          "text": "Build your next\nbig idea.",
+          "fontSize": 76,
+          "fontFamily": "Arial",
+          "color": "#1f2937",
+          "bold": true,
+          "align": "left"
+        },
+        {
+          "id": "c2ab2af0-23c6-48a2-8427-5bb9ab012746",
+          "kind": "rect",
+          "x": 120,
+          "y": 530,
+          "width": 1040,
+          "height": 16,
+          "rotation": 0,
+          "fill": "#7c3aed",
+          "stroke": "#7c3aed",
+          "strokeWidth": 0
+        }
+      ]
+    },
+    {
+      "id": "43e5825b-30c0-4ed5-9b15-63c6c055c6f8",
+      "background": "#ffffff",
+      "elements": [
+        {
+          "id": "579eeb67-f43f-43cc-a460-9e0c8381fb50",
+          "kind": "text",
+          "x": 120,
+          "y": 100,
+          "width": 720,
+          "height": 240,
+          "rotation": 0,
+          "text": "From blank slide\nto bold story.",
+          "fontSize": 76,
+          "fontFamily": "Arial",
+          "color": "#1f2937",
+          "bold": true,
+          "align": "left"
+        },
+        {
+          "id": "ba642554-6047-4019-a380-060e8004d46d",
+          "kind": "rect",
+          "x": 120,
+          "y": 530,
+          "width": 1040,
+          "height": 16,
+          "rotation": 0,
+          "fill": "#7c3aed",
+          "stroke": "#7c3aed",
+          "strokeWidth": 0
+        },
+        {
+          "id": "e343c8a7-e8b0-4e18-9b74-b1201bfe02fc",
+          "kind": "ellipse",
+          "x": 887.2062481896035,
+          "y": 159.3801790375467,
+          "width": 236.0223180739181,
+          "height": 180.37007405381286,
+          "rotation": 30,
+          "fill": "#7c3aed",
+          "stroke": "#7c3aed",
+          "strokeWidth": 0
+        }
+      ]
+    }
+  ]
+}
